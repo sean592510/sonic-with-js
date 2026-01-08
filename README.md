@@ -9,4 +9,4 @@ CREDITS
 
 made by watching JSLegenDev youtube video on how to create a Js game
 
-Font used comes from : https://www.dafont.com/mania.font
+Font used come from : https://www.dafont.com/mania.font
